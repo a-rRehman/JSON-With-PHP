@@ -1,0 +1,37 @@
+{
+  "employees": [
+    {
+      "name": "John Doe",
+      "position": "Manager",
+      "salary": 5000
+    },
+    {
+      "name": "Jane Smith",
+      "position": "Developer",
+      "salary": 4000
+    },
+    {
+      "name": "Mark Johnson",
+      "position": "Designer",
+      "salary": 3500
+    }
+  ],
+
+  "owners": [
+    {
+      "name": "JackyChain",
+      "position": "Manager",
+      "salary": 5000
+    },
+    {
+      "name": "Alexendra dadrio",
+      "position": "Developer",
+      "salary": 4000
+    },
+    {
+      "name": "Kendela Jenner",
+      "position": "Designer",
+      "salary": 3500
+    }
+  ]
+}
