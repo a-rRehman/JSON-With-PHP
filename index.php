@@ -20,6 +20,10 @@ $data = file_get_contents('data.json');
 $employees = json_decode($data, true)['employees'];
 $employees = json_decode($data, true)['owners'];
 
+echo "<pre>";
+print_r($employees);
+echo "</pre>";
+
 foreach ($employees as $employee) {
     echo '<tr>';
     echo '<td>' . $employee['name'] . '</td>';
